@@ -1,5 +1,5 @@
 # minesweeper
-A simple minesweeper game made in modern vanilla js.
+A simple minesweeper game made in modern vanilla js. The project uses the HTML5 boilerplate code.
 
 # Usage
 A demo can be played on my university personal website [here](http://www-personal.umich.edu/~ondrejk/)
